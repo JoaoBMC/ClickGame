@@ -19,7 +19,8 @@ private slots:
 
     void on_Btt_Money_clicked();
 
-    void on_btt_galinha_clicked();
+
+    void on_btt_01_clicked();
 
 private:
     Ui::Click_game *ui;
