@@ -20,7 +20,7 @@
       <x>20</x>
       <y>230</y>
       <width>221</width>
-      <height>80</height>
+      <height>88</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
@@ -68,7 +68,20 @@
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>1 - </string>
+        <string>10</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="btt_02">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>20</string>
+       </property>
+       <property name="checkable">
+        <bool>false</bool>
        </property>
       </widget>
      </item>
